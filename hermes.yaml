@@ -11,3 +11,10 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#%F0%9F%87%BA%F0%9F%87%B
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.236:443#%F0%9F%87%BA%F0%9F%87%B8US_303%20%7C%20%E2%AC%87%EF%B8%8F%2012.2MB%2Fs
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.95.183:443#%E7%BE%8E%E5%9B%BD-unknown
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#%F0%9F%87%AC%F0%9F%87%A7GB_16%20%7C%20%E2%AC%87%EF%B8%8F%205.4MB%2Fs
+#s-ui-vps-jiedian
+vless://3cd8aa1f-baff-43ca-aeba-7fe0628c7e2b@167.234.220.100:443?encryption=none&security=reality&sni=download.amd.com&fp=chrome&pbk=FuHNJfhRkgSUFPemLSBmg1zeNjXKXFd8AsC4We-jvHg&sid=a8814843011c&type=tcp&headerType=none#vless-443
+tuic://bd5ed652-51de-46de-aa3d-a8fa6181ed81%3AF6ol0V7Q8q@167.234.220.100:443?alpn=h3%2Ch2%2Chttp%2F1.1&insecure=1&allowInsecure=1&congestion_control=bbr#tuic-443
+vless://a207f27a-b35e-4531-84aa-c3709ad0c2a2@165.1.72.173:443?type=tcp&security=reality&pbk=L0uXtwxj9b9dsVbW2SAvR6laLsBMXRlbhhxZotsUGzI&sid=3f11&fp=chrome&sni=&flow=xtls-rprx-vision#vless-443
+vless://46f30067-bace-4503-b112-9751ee274381@134.185.109.220:8443?type=tcp&security=reality&pbk=WTqMNjxbck5ctTwNzrAP0tFy7qad8YhfnnNBxjKmj2w&sid=3f8941ca19&fp=chrome&sni=download.amd.com&flow=xtls-rprx-vision#vless-8443
+vless://5d8ba879-849b-460d-8871-7ca959b8e548@134.185.112.196:8443?type=tcp&security=reality&pbk=EfbJ2xoi2vM3-6bav31yDlqA7pAtkYiC1ToGkoBa9mI&sid=d04f&fp=chrome&sni=download.amd.com&flow=xtls-rprx-vision#vless-8443
+vless://016d7c93-e948-47b5-a024-145275ec43ae@134.185.101.184:443?type=tcp&security=reality&pbk=fVxU-LWoH0I4AJqE1sBmOZw4g8L3lzhmt2M_-iVECFY&sid=d4c118fd&fp=chrome&sni=download.amd.com&flow=xtls-rprx-vision#vless-443
